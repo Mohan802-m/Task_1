@@ -36,7 +36,8 @@ if uploaded_video:
     # Extract audio
    # st.write("Extracting audio from the video...")
     audio_path = "temp_audio.wav"
-    ffmpeg.input(video_path).output(audio_path, ac=1, ar="16000").run()
+    ffmpeg.input(video_path).output(audio_path, ac=1, ar=16000).run()
+
 
     # Transcribe audio
     #st.write("Transcribing audio...")
