@@ -4,6 +4,8 @@ ipykernel
 langchain-community
 ffmpeg-python
 SpeechRecognition
+langchain-ollama
+
 pypdf
 beautifulsoup4
 bs4
