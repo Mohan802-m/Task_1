@@ -3,6 +3,7 @@ python-dotenv
 ipykernel
 langchain-community
 ffmpeg-python
+SpeechRecognition
 pypdf
 beautifulsoup4
 bs4
