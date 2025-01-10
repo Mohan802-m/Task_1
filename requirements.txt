@@ -5,6 +5,7 @@ langchain-community
 ffmpeg-python
 SpeechRecognition
 langchain-ollama
+ffmpeg
 
 pypdf
 beautifulsoup4
